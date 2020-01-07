@@ -98,4 +98,7 @@ promedio = df3['nota 1 ']+df3['disciplina']/2
 df3['promedio'] = promedio
 
 
+
+
+
   

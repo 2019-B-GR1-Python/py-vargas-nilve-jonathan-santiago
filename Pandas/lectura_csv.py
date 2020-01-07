@@ -30,14 +30,16 @@ df3 = pd.read_csv(path, nrows = 10)
 path_guardado =  'C:\\Users\\jonat\\Documents\\GitHub\\py-vargas-nilve-jonathan-santiago\\Pandas\\data\\art-df3'
 df3.to_pickle(path_guardado)
 
-
 #------------------
 df4 = pd.read_csv(path)
 path_guardado_bin =  'C:\\Users\\jonat\\Documents\\GitHub\\py-vargas-nilve-jonathan-santiago\\Pandas\\data\\art-completo'
 df4.to_pickle(path_guardado_bin)
 
 
-
 #leer el pico guardado
 df5 = pd.read_pickle(path_guardado)
+
+
+
+
 
