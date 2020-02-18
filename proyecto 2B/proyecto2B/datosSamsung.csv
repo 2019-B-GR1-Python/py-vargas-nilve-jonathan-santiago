@@ -1,0 +1,21 @@
+MODELO,SO,ROM (GB),RAM (GB),MICROSD,SIM,TAMAÑO PANTALLA (in), RESOLUCION PANTALLA,TIPO PANTALLA,BATERIA (mAh),PESO (g),FECHA LANZAMIENTO
+Galaxy S10e,Android 9.0 Pie,"128, 256","6, 8",Oui microSDXC - up to 512 GB,NanoSIM,5.8,2280x1080,Quad HD+ Super AMOLED,3100,150,3/8/2019
+Samsung Galaxy S10+,Android 9.0 Pie,"128, 512, 1000","8, 12",Oui microSDXC - up to 512 GB,NanoSIM,6.4,3040x1440,Quad HD+ Super AMOLED,4100,175,3/8/2019
+Samsung Galaxy S10,Android 9.0 Pie,"128, 512",8,Oui microSDXC - up to 512 GB,NanoSIM,6.1,3040x1440,Quad HD+ Super AMOLED,3400,157,3/8/2019
+Samsung Galaxy S9+,Android 8.0 Oreo,"64, 128, 256",6,Oui microSDXC - up to 400 GB,NanoSIM,6.2,2960x1440,Quad HD+ Super AMOLED,3500,189,3/16/2018
+Samsung Galaxy S9,Android 8.0 Oreo,"64, 128",4,Oui microSDXC - up to 400 GB,NanoSIM,5.8,2960x1440,Quad HD+ Super AMOLED,3000,163,3/16/2018
+Samsung Galaxy S8+,Android 7 Nougat,"64, 128",4,Oui microSDXC - up to 256 GB,NanoSIM,6.2,2960x1440,Super AMOLED,3500,173,4/21/2017
+Samsung Galaxy S8,Android 7 Nougat,64,4,Oui microSDXC - up to 256 GB,NanoSIM,5.8,2960x1440,Super AMOLED,3000,152,4/21/2017
+Samsung Galaxy S7 Edge,Android 6 Marshmallow,"32, 64, 128",4,Oui microSDXC - up to 400 GB,NanoSIM,5.5,2560x1440,Super AMOLED,3600,157,3/11/2016
+Samsung Galaxy S7,Android 6 Marshmallow,"32, 64, 128",4,Oui microSDXC - up to 400 GB,NanoSIM,5.1,2560x1440,Super AMOLED,3000,152,3/11/2016
+Samsung Galaxy S6,Android 5.1.1 Lollipop,"32, 64, 128",3,No,NanoSIM,5.1,2560x1440,Super AMOLED,2550,138,4/15/2015
+Samsung Galaxy Note 4,Android 4.4.4 KitKat,"32, 64",3,Oui microSD,MicroSIM,5.7,2560x1440,HD Super AMOLED,3220,176,10/15/2014
+Samsung Galaxy S5,Android 4.4.2 KitKat,"16, 32",2,Oui microSD,StandardSIM,5.1,1920x1080,HD Super AMOLED,2800,145,4/11/2014
+Samasung Galasy S5 mini,Android 4.4.2 KitKat,16,1.5,Oui microSD,StandardSIM,4.5,1280x720,HD Super AMOLED,2100,120,7/1/2014
+Samsung Galaxy S 4,Android 4.2.2 Jelly Bean,"16, 32, 64",2,Oui microSD,StandardSIM,5,1920x1080,Super AMOLED,2600,130,4/26/2013
+Samsung Galaxy S III,Android 4.0 ICS,"16, 32, 64",1,Oui microSD,StandardSIM,4.8,1280x720,Super AMOLED,2100,133,5/29/2012
+Samsung Galaxy S3 Mini,Android 4.1.2 Jelly Bean,8,1,Oui microSD,StandardSIM,4,480x800,Super AMOLED,1500,111.5,11/1/2012
+Samsung Galaxy S II,Android 2.3 Gingerbread,"16, 32",1,Oui microSD,StandardSIM,4.3,800x480,Super AMOLED Plus,1650,116,5/1/2011
+Samsung Galaxy S WiFi 5.0,Android 2.2 Froyo,"8, 16",0.512,Oui microSD,StandardSIM,5,800x480,TFT,2500,118,1/1/2011
+Samsung Galaxy S WiFi 4.0,Android 2.2,"8, 16",0.383,Oui microSD,StandardSIM,4,800x480,Super Clear LCD,1200,147.5,9/2/2011
+Samsung Galaxy S,Android 2.3.6,16,0.383,Oui microSD,StandardSIM,4,800x480,Super AMOLED,1500,118,6/15/2010

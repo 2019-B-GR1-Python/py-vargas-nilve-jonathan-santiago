@@ -1,0 +1,23 @@
+MODELO,PROCESADOR,ROM,RAM,MICROSD,SIM,TAMAÑO PANTALLA, RESOLUCION PANTALLA,BATERIA,PESO,FECHA LANZAMIENTO,CAMARA FRONTAL
+iPhone 11,Apple A13 Bionic,"64 GB, 128 GB, 256 GB",4 GB,Non,"Nano-SIM, eSIM",6.1 in,1792x828,3110 mAh,194 g,2019-09-20,Oui 12 MP
+iPhone 11 Pro,Apple A13 Bionic,"64 GB, 256 GB, 512 GB",4 GB,Non,"Nano-SIM, eSIM",5.8 in,2436x1125,3046 mAh,188 g,2019-09-20,Oui 12 MP
+iPhone 11 Pro Max,Apple A13 Bionic,"64 GB, 256 GB, 512 GB",4 GB,Non,"Nano-SIM, eSIM",6.5 in,2688x1242,3969 mAh,226 g,2019-09-20,Oui 12 MP
+iPhone XR,Apple A12 Bionic,"64 GB, 128 GB, 256 GB",3 GB,Non,"Nano-SIM, eSIM",6.1 in,1792x828,2942 mAh,194 g,2018-10-26,Oui 7 MP
+iPhone XS,Apple A12 Bionic,"64 GB, 256 GB, 512 GB",4 GB,Non,"Nano-SIM, eSIM",5.8 in,2436x1125,2658 mAh,177 g,2018-09-28,Oui 7 MP
+iPhone XS Max,Apple A12 Bionic,"64 GB, 256 GB, 512 GB",4 GB,Non,"Nano-SIM, eSIM",6.5 in,2688x1242,3174 mAh,208 g,2018-09-28,Oui 7 MP
+iPhone X,Apple A11 Bionic,"64 GB, 256 GB",3 GB,Non,Nano-SIM,5.8 in,2436x1125,2.716 mAh,174 g,2017-10-27,Oui 7 MP
+iPhone 8 Plus,Apple A11 Bionic,"64 GB, 256 GB",3 GB,Non,Nano-SIM,5.5 in,1920x1080,2.675 mAh,202 g,2017-09-15,Oui 7 MP
+iPhone 8,Apple A11 Bionic,"64 GB, 256 GB",2 GB,Non,Nano-SIM,4.7 in,1334x750,1821 mAh,148 g,2017-09-15,Oui 7 MP
+iPhone 7 Plus,Apple A10 Fusion (64bit),"32 GB, 128 GB, 256 GB",3 GB,Non,Nano-SIM,5.5 in,1920x1080,2900 mAh,188 g,2016-09-16,Oui 7 MP
+iPhone 7,Apple A10 Fusion (64bit),32 GB 128 GB,2 GB,Non,Nano-SIM,4.7 in,1334x750,1960 mAh,138 g,2016-09-16,Oui 7 MP
+iPhone 5 SE,"Apple A9, 64bit","16 GB, 64 GB",2 GB,Non,Nano-SIM,4 in,1136x640,1624 mAh,113 g,2016-03-24,Oui 1.2MP
+iPhone 6s Plus,"Apple A9, 64bit","16 GB, 64 GB, 128 GB",2 GB,Non,Nano-SIM,5.5 in,1920x1080,2750 mAh,192 g,2015-09-12,Oui 5 MP
+iPhone 6s,"Apple A9, 64bit","16 GB, 64 GB, 128 GB",2 GB,Non,Nano-SIM,4.7 in,1334x750,1715 mAh,143 g,2015-09-12,Oui 5MP
+iPhone 6 Plus,"Apple A8, 64bit","16 GB, 64 GB, 128 GB",1 GB,Non,Nano-SIM,5.5 in,1920x1080,2915 mAh,172 g,2014-09-09,Oui 1.2 MP
+iPhone 6,"Apple A8, 64bit","16 GB , 64 GB, 128 GB",1 GB,Non non disponible,Nano-SIM,4.7 in,1334x750 ecran retina HD,1810 mAh,129 g,2014-09-09,Oui 2 MP
+iPhone 5S,"Apple A7 1.3Ghz dual core, 64bit","16 GB, 32GB, 64GB",1 GB,Non,Nano-SIM,4 in,1136x640,1570 mAh,112 g,2013-09-10,Oui 1.2 MP
+iPhone 5C,"Apple A6 1Ghz dual-core, 32bit","16 GB, 32GB",1 GB,Non,Nano-SIM,4 in,1136x640,1507 mAh,132 g,2013-09-10,Oui 1.2 MP
+iPhone 5,"Apple A6 1Ghz dual-core, 32bit",16 GO - 32 GO - 64 GO,1 GB,Non,Nano-SIM,4 pouces,1136x640,1440 mAh,112 g,2012-09-21,Oui 1.2 MP
+iPhone 4S,"Apple A5 dual core, 32bit",16 GB - 64 GB,1 GB,Non,micro-SIM,3.5 in,960x640,1432 mAh,140 g,2011-10-14,Oui 0.3 MP
+iPhone 4,"Apple A4 1Ghz, 32bit",16 GB - 32 GB,0.512 MB,Non,micro-SIM,3.5 in,960x640,1420 mAh,138 g,2010-06-24,Oui 0.3 MP
+iPhone 3GS,"ARM 600MHz, 32bit",16 GB - 32 GB,0.256 MB,Non,Full-size,3.5 in,320x480,1219 mAh,135 g,2009-06-19,

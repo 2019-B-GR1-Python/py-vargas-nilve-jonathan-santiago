@@ -110,3 +110,19 @@ extraer el primer link
 ```
 $response.xpath("//div[@class='quote']/span/a/@href").extract_first()
 ```
+
+
+crear una nueva arania
+```
+$scrapy startproject arania-onu
+
+````
+
+
+```
+<span id="id_A>Hello, Universe!</span>
+request.css('span.id_A::text').extract()
+selector.css('span#id_A::text').extract()
+response.css('#id_A::text').extract()
+
+```
